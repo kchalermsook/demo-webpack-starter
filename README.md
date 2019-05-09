@@ -1,1 +1,1 @@
-# test_webpack_starter
+# demo-webpack-starter
